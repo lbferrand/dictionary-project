@@ -8,11 +8,10 @@ h1 {
   font-size: 35px;
   padding: 30px;
 }
-input {
-  display: block;
-  margin: 0 auto;
+.input {
   padding: 5px;
   font-family: fantasy;
   font-size: 15px;
-  margin-bottom: 30px;
+  display: block;
+  margin: auto;
 }
