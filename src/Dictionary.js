@@ -39,9 +39,7 @@ export default function Dictionary() {
         </p>
       </section>
       <div>
-        <section>
-          <Results results={results} />
-        </section>
+        <Results results={results} />
       </div>
     </div>
   );
