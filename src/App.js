@@ -8,6 +8,8 @@ function App() {
         <main>
           <Dictionary />
         </main>
+      </div>
+      <div>
         <footer>
           This page was coded by
           <br />
