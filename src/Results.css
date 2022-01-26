@@ -1,0 +1,12 @@
+h2 {
+  padding-top: 50px;
+  font-family: fantasy;
+  color: rgb(114, 162, 204);
+  font-weight: bolder;
+}
+h3 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 500;
+}

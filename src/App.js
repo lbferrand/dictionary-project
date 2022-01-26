@@ -9,26 +9,24 @@ function App() {
           <Dictionary />
         </main>
         <footer>
-          <p>
-            This page was coded by
-            <br />
-            <a
-              href="https://www.lbferrandportfolio.com"
-              target="_blank"
-              rel="noreferrer"
-            >
-              Luciana Bautista Ferrand
-            </a>
-            <br />
-            Open sourced in{" "}
-            <a
-              href="https://github.com/lbferrand/dictionary-project"
-              target="_blank"
-              rel="noreferrer"
-            >
-              Github
-            </a>
-          </p>
+          This page was coded by
+          <br />
+          <a
+            href="https://www.lbferrandportfolio.com"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Luciana Bautista Ferrand
+          </a>
+          <br />
+          Open sourced in{" "}
+          <a
+            href="https://github.com/lbferrand/dictionary-project"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Github
+          </a>
         </footer>
       </div>
     </div>
