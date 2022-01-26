@@ -2,24 +2,37 @@
   background: rgb(203, 229, 235);
   padding: 20px;
 }
+.Dictionary section {
+  background: whitesmoke;
+  padding: 20px;
+  border-radius: 4px;
+  box-shadow: 2px 2px 1px 1px rgb(55, 110, 112);
+  margin-bottom: 10px;
+}
 
 h1 {
   text-align: center;
   font-family: fantasy;
-  font-size: 65px;
   padding: 30px;
   color: rgb(21, 145, 150);
 }
 h6 {
-  color: rgb(100, 114, 116);
+  color: rgb(90, 180, 196);
   text-align: center;
   font-family: cursive;
 }
 .input {
-  padding: 8px;
+  text-align: center;
+  padding: 5px;
   font-family: fantasy;
   font-size: 25px;
   display: block;
   margin: auto;
+  width: 300px;
   border: 1px solid rgb(58, 174, 179);
+  border-radius: 4px;
+}
+
+section.strong {
+  box-shadow: 3px 3px 2px 2px rgb(83, 165, 168);
 }
