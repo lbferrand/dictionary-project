@@ -41,10 +41,11 @@ export default function Dictionary(props) {
               type="search"
               placeholder="Enter a word.."
               onChange={handleKeywordChange}
+              defaultValue={props.defaultKeyword}
             ></input>
           </form>
           <p className="sugestion">
-            Suggest of words: love, tenderness, endearment, idolization
+            Suggested words: love, sunset, forgiveness, idolization
           </p>
         </section>
         <div>
