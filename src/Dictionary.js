@@ -58,7 +58,7 @@ export default function Dictionary(props) {
               ></input>
             </form>
             <p className="sugestion">
-              Suggested words: love, sunset, forgiveness, idolization
+              Suggested words: cascade, sunset, sunflower, Kitten
             </p>
           </section>
           <div>
